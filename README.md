@@ -6,7 +6,7 @@ davi.rodrigues.vasconcelos@escola.pr.gov.br
 meus arquivos de programação
 
 <DOCTYPE html>
-<html>
+<html lang "pt-br">
 
 
 
